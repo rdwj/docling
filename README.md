@@ -2,6 +2,8 @@
 
 This is a containerized version of the Docling PDF processing service, designed to run on OpenShift. It provides a REST API for processing PDF documents using the Docling library.
 
+#### Note: This is an experimental work in progress. Contact the maintainers if you have any questions or would like to contribute.
+
 ## Features
 
 - REST API for PDF document processing
